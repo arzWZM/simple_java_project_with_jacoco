@@ -7,7 +7,7 @@ import org.junit.Test;
 import my.simplejavaprojectwithjacoco.Calculator;
 
 public class CalculatorTest {
-	
+/*	
 	@Test
 	public void testAdd()
 	{
@@ -27,7 +27,7 @@ public class CalculatorTest {
 		assertEquals(3, result);
 		
 	}
-	
+*/	
 	@Test
 	public void testMultiply()
 	{
