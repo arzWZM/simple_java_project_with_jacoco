@@ -17,7 +17,7 @@ public class CalculatorTest {
 		assertEquals(3, result);
 		
 	}
-	
+/*	
 	@Test
 	public void testMinus()
 	{
@@ -27,7 +27,7 @@ public class CalculatorTest {
 		assertEquals(3, result);
 		
 	}
-/*	
+	
 	@Test
 	public void testMultiply()
 	{
