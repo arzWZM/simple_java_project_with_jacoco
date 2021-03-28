@@ -27,7 +27,7 @@ public class CalculatorTest {
 		assertEquals(3, result);
 		
 	}
-	
+/*	
 	@Test
 	public void testMultiply()
 	{
@@ -36,7 +36,7 @@ public class CalculatorTest {
 		int result = calculator.multiply(6, 2);
 		assertEquals(12, result);		
 	}
-
+*/
 	@Test
 	public void testDivide()
 	{
