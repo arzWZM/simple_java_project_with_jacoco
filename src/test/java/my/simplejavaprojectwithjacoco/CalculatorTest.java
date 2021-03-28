@@ -7,7 +7,7 @@ import org.junit.Test;
 import my.simplejavaprojectwithjacoco.Calculator;
 
 public class CalculatorTest {
-/*	
+	
 	@Test
 	public void testAdd()
 	{
@@ -36,7 +36,7 @@ public class CalculatorTest {
 		int result = calculator.multiply(6, 2);
 		assertEquals(12, result);		
 	}
-*/
+
 	@Test
 	public void testDivide()
 	{
